@@ -216,9 +216,6 @@ Feel free to contribute to this project by:
 - Adding new sections
 - Optimizing code
 
-## 📄 License
-
-This project is open source and available under the MIT License.
 
 ---
 
